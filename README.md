@@ -6,3 +6,4 @@
 ## Networking Today
 
 - 1.0 [Introduction](https://github.com/bembenk18/CCNA/tree/main/NetToday/Introduction) 
+- 1.1 [Networks Affect our Lives](https://github.com/bembenk18/CCNA/tree/main/NetToday/Networks%20Affect%20our%20Lives)
