@@ -10,12 +10,16 @@
     
     
    
-# Why should I take this module
+#Why should I take this module
 
 
 Welcome to Networking Today!
 
 Congratulations! This module starts you on your path to a successful career in Information Technology by giving you a foundational understanding of the creation, operation, and maintenance of networks. As a bonus, you get to dive into networking simulations using Packet Tracer. We promise you will really enjoy it!
+
+
+
+
 
 
 
@@ -37,3 +41,8 @@ Module Objective: Explain the advances in modern network technologies.
 |`Network Trends`|Explain how trends such as BYOD, online collaboration, video, and cloud computing are changing the way we interact.|
 |`Network Security`|Identify some basic security threats and solution for all networks.|
 |`The IT Professional`|Explain employment opportunities in the networking field.|
+
+
+
+
+
