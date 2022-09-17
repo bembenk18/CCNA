@@ -4,8 +4,8 @@
   * 1.0.1 [Why should I take this module?](#why-should-i-take-this-module)
   * 1.0.2 [What will I learn to do in this module?](#what-will-i-learn-to-do-in-this-module)
   * 1.0.3 [Download and Install Packet Tracer](#Download-and-Install-Packet-Tracer)
-  * 1.0.4 [Getting Started in Cisco Packet Tracer](https://github.com/bembenk18/CCNA/blob/main/NetToday/1-0-4.md)
-  * 1.0.5 [Logical and Physical Mode Exploration](https://github.com/bembenk18/CCNA/blob/main/NetToday/1-0-5.md)
+  * 1.0.4 [Getting Started in Cisco Packet Tracer](#getting-started-in-cisco-packet-tracer)
+  * 1.0.5 [Logical and Physical Mode Exploration](#logical-and-physical-mode-exploration)
     
     
     
@@ -74,5 +74,40 @@ Click Play in the video for a detailed walk-through of the Packet Tracer downloa
 
 
 https://user-images.githubusercontent.com/65327648/190841555-4eebe9fb-9b08-47a1-ab34-1f68202fbb4b.MP4
+
+
+
+# Getting Started in Cisco Packet Tracer
+
+
+Packet Tracer is a tool that allows you to simulate real networks. It provides three main menus:
+
+You can add devices and connect them via cables or wireless.
+You can select, delete, inspect, label, and group components within your network.
+You can manage your network by opening an existing/sample network, saving your current network, and modifying your user profile or preferences.
+If you have used any program such as a word processor or spreadsheet, you are already familiar with the File menu commands located in the top menu bar. The Open, Save, Save As, and Exit commands work as they would for any program, but there are two commands that are special to Packet Tracer.
+
+The Open Samples command will display a directory of prebuilt examples of features and configurations of various network and Internet of Things devices included within Packet Tracer.
+
+The Exit and Logout command will remove the registration information for this copy of Packet Tracer and require the next user of this copy of Packet Tracer to do the login procedure again.
+
+Click Play in the video to learn how to use the menus and how to create your first Packet Tracer network.
+
+
+
+
+https://user-images.githubusercontent.com/65327648/190841753-ba674500-8a31-4ba4-a028-c96ebca09749.MP4
+
+
+# Logical and Physical Mode Exploration
+
+
+
+The network model in this Packet Tracer Physical Mode (PTPM) activity incorporates many of the technologies that you can master in Cisco Networking Academy courses. It represents a simplified version of how a small to medium-sized business network might look.
+
+Most of the devices in the Seward branch office and Warrenton data center are already deployed and configured. You have just been hired to review the devices and networks deployed. It is not important that you understand everything you see and do in this activity. Feel free to explore the network on your own. If you wish to proceed more systematically, follow the steps below. Answer the questions to the best of your ability.
+
+
+[1.0.5-packet-tracer---logical-and-physical-mode-exploration.pdf](https://github.com/bembenk18/CCNA/files/9590999/1.0.5-packet-tracer---logical-and-physical-mode-exploration.pdf)
 
 
